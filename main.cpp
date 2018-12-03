@@ -23,6 +23,8 @@ int main(int argc, char* argv[]){
     std::chrono::duration<double> elapsed_seconds = end-start;
     double elapsed_secs = elapsed_seconds.count();
 
+    std::cout<<"vector size: "<<vector_size<<std::endl;
+
     std::cout<<"time(seconds): "<<elapsed_secs<<std::endl;
 
     float operations = vector_size*1/elapsed_secs/1000000;
