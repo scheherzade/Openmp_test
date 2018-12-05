@@ -1,640 +1,640 @@
 vector size: 1
-time(microseconds): 8936
-MFLOPS: 0.000111907
+time(microseconds): 4148
+MFLOPS: 0.00024108
 
 vector size: 2
-time(microseconds): 3521
-MFLOPS: 0.00056802
+time(microseconds): 3225
+MFLOPS: 0.000620155
 
 vector size: 3
-time(microseconds): 9223
-MFLOPS: 0.000325274
+time(microseconds): 2806
+MFLOPS: 0.00106914
 
 vector size: 4
-time(microseconds): 2766
-MFLOPS: 0.00144613
+time(microseconds): 3031
+MFLOPS: 0.0013197
 
 vector size: 5
-time(microseconds): 2577
-MFLOPS: 0.00194024
+time(microseconds): 2862
+MFLOPS: 0.00174703
 
 vector size: 6
-time(microseconds): 2617
-MFLOPS: 0.0022927
+time(microseconds): 2786
+MFLOPS: 0.00215363
 
 vector size: 7
-time(microseconds): 3856
-MFLOPS: 0.00181535
+time(microseconds): 2806
+MFLOPS: 0.00249465
 
 vector size: 8
-time(microseconds): 2634
-MFLOPS: 0.00303721
+time(microseconds): 2686
+MFLOPS: 0.00297841
 
 vector size: 9
-time(microseconds): 10361
-MFLOPS: 0.000868642
+time(microseconds): 2740
+MFLOPS: 0.00328467
 
 vector size: 10
-time(microseconds): 3820
-MFLOPS: 0.0026178
+time(microseconds): 2612
+MFLOPS: 0.00382848
 
 vector size: 11
-time(microseconds): 2401
-MFLOPS: 0.00458142
+time(microseconds): 2670
+MFLOPS: 0.00411985
 
 vector size: 12
-time(microseconds): 8010
-MFLOPS: 0.00149813
+time(microseconds): 2658
+MFLOPS: 0.00451467
 
 vector size: 13
-time(microseconds): 3434
-MFLOPS: 0.00378567
+time(microseconds): 2586
+MFLOPS: 0.00502707
 
 vector size: 14
-time(microseconds): 6719
-MFLOPS: 0.00208364
+time(microseconds): 2666
+MFLOPS: 0.00525131
 
 vector size: 15
-time(microseconds): 10417
-MFLOPS: 0.00143995
+time(microseconds): 2489
+MFLOPS: 0.00602652
 
 vector size: 16
-time(microseconds): 7579
-MFLOPS: 0.0021111
+time(microseconds): 2542
+MFLOPS: 0.00629426
 
 vector size: 17
-time(microseconds): 14954
-MFLOPS: 0.00113682
+time(microseconds): 2459
+MFLOPS: 0.00691338
 
 vector size: 18
-time(microseconds): 2910
-MFLOPS: 0.00618557
+time(microseconds): 2571
+MFLOPS: 0.00700117
 
 vector size: 19
-time(microseconds): 2719
-MFLOPS: 0.00698786
+time(microseconds): 2579
+MFLOPS: 0.0073672
 
 vector size: 20
-time(microseconds): 2778
-MFLOPS: 0.00719942
+time(microseconds): 2538
+MFLOPS: 0.00788022
 
 vector size: 22
-time(microseconds): 2319
-MFLOPS: 0.00948685
+time(microseconds): 2630
+MFLOPS: 0.00836502
 
 vector size: 24
-time(microseconds): 5786
-MFLOPS: 0.00414794
+time(microseconds): 2578
+MFLOPS: 0.00930954
 
 vector size: 26
-time(microseconds): 10014
-MFLOPS: 0.00259637
+time(microseconds): 2671
+MFLOPS: 0.00973418
 
 vector size: 28
-time(microseconds): 8801
-MFLOPS: 0.00318146
+time(microseconds): 2596
+MFLOPS: 0.0107858
 
 vector size: 30
-time(microseconds): 3208
-MFLOPS: 0.00935162
+time(microseconds): 2691
+MFLOPS: 0.0111483
 
 vector size: 33
-time(microseconds): 10283
-MFLOPS: 0.00320918
+time(microseconds): 2532
+MFLOPS: 0.0130332
 
 vector size: 36
-time(microseconds): 10348
-MFLOPS: 0.00347893
+time(microseconds): 2655
+MFLOPS: 0.0135593
 
 vector size: 39
-time(microseconds): 10464
-MFLOPS: 0.00372706
+time(microseconds): 2617
+MFLOPS: 0.0149026
 
 vector size: 42
-time(microseconds): 2533
-MFLOPS: 0.0165811
+time(microseconds): 3188
+MFLOPS: 0.0131744
 
 vector size: 46
-time(microseconds): 10452
-MFLOPS: 0.00440107
+time(microseconds): 2581
+MFLOPS: 0.0178225
 
 vector size: 50
-time(microseconds): 2704
-MFLOPS: 0.0184911
+time(microseconds): 2568
+MFLOPS: 0.0194704
 
 vector size: 55
-time(microseconds): 10568
-MFLOPS: 0.00520439
+time(microseconds): 2565
+MFLOPS: 0.0214425
 
 vector size: 60
-time(microseconds): 10657
-MFLOPS: 0.0056301
+time(microseconds): 2571
+MFLOPS: 0.0233372
 
 vector size: 66
-time(microseconds): 10666
-MFLOPS: 0.00618789
+time(microseconds): 2510
+MFLOPS: 0.0262948
 
 vector size: 72
-time(microseconds): 2661
-MFLOPS: 0.0270575
+time(microseconds): 2456
+MFLOPS: 0.029316
 
 vector size: 79
-time(microseconds): 10484
-MFLOPS: 0.00753529
+time(microseconds): 2428
+MFLOPS: 0.0325371
 
 vector size: 86
-time(microseconds): 10459
-MFLOPS: 0.00822258
+time(microseconds): 2386
+MFLOPS: 0.0360436
 
 vector size: 94
-time(microseconds): 2849
-MFLOPS: 0.032994
+time(microseconds): 2323
+MFLOPS: 0.0404649
 
 vector size: 103
-time(microseconds): 10501
-MFLOPS: 0.00980859
+time(microseconds): 3648
+MFLOPS: 0.0282346
 
 vector size: 113
-time(microseconds): 10465
-MFLOPS: 0.0107979
+time(microseconds): 2618
+MFLOPS: 0.0431627
 
 vector size: 124
-time(microseconds): 7899
-MFLOPS: 0.0156982
+time(microseconds): 2624
+MFLOPS: 0.0472561
 
 vector size: 136
-time(microseconds): 2906
-MFLOPS: 0.0467997
+time(microseconds): 2666
+MFLOPS: 0.0510128
 
 vector size: 149
-time(microseconds): 4475
-MFLOPS: 0.0332961
+time(microseconds): 2508
+MFLOPS: 0.0594099
 
 vector size: 163
-time(microseconds): 10023
-MFLOPS: 0.0162626
+time(microseconds): 2615
+MFLOPS: 0.0623327
 
 vector size: 179
-time(microseconds): 10620
-MFLOPS: 0.016855
+time(microseconds): 2552
+MFLOPS: 0.0701411
 
 vector size: 196
-time(microseconds): 10658
-MFLOPS: 0.0183899
+time(microseconds): 2502
+MFLOPS: 0.0783373
 
 vector size: 215
-time(microseconds): 11607
-MFLOPS: 0.0185233
+time(microseconds): 2535
+MFLOPS: 0.0848126
 
 vector size: 236
-time(microseconds): 6571
-MFLOPS: 0.0359154
+time(microseconds): 2510
+MFLOPS: 0.0940239
 
 vector size: 259
-time(microseconds): 10611
-MFLOPS: 0.0244086
+time(microseconds): 2589
+MFLOPS: 0.100039
 
 vector size: 284
-time(microseconds): 9745
-MFLOPS: 0.0291432
+time(microseconds): 2567
+MFLOPS: 0.110635
 
 vector size: 312
-time(microseconds): 2648
-MFLOPS: 0.117825
+time(microseconds): 2596
+MFLOPS: 0.120185
 
 vector size: 343
-time(microseconds): 2545
-MFLOPS: 0.134774
+time(microseconds): 2614
+MFLOPS: 0.131217
 
 vector size: 377
-time(microseconds): 2598
-MFLOPS: 0.145112
+time(microseconds): 2691
+MFLOPS: 0.140097
 
 vector size: 414
-time(microseconds): 2901
-MFLOPS: 0.142709
+time(microseconds): 2525
+MFLOPS: 0.16396
 
 vector size: 455
-time(microseconds): 6920
-MFLOPS: 0.0657514
+time(microseconds): 2674
+MFLOPS: 0.170157
 
 vector size: 500
-time(microseconds): 2259
-MFLOPS: 0.221337
+time(microseconds): 2563
+MFLOPS: 0.195084
 
 vector size: 550
-time(microseconds): 2250
-MFLOPS: 0.244444
+time(microseconds): 2662
+MFLOPS: 0.206612
 
 vector size: 605
-time(microseconds): 9934
-MFLOPS: 0.060902
+time(microseconds): 2618
+MFLOPS: 0.231092
 
 vector size: 665
-time(microseconds): 10231
-MFLOPS: 0.0649985
+time(microseconds): 2561
+MFLOPS: 0.259664
 
 vector size: 731
-time(microseconds): 2370
-MFLOPS: 0.308439
+time(microseconds): 2591
+MFLOPS: 0.28213
 
 vector size: 804
-time(microseconds): 2368
-MFLOPS: 0.339527
+time(microseconds): 2556
+MFLOPS: 0.314554
 
 vector size: 884
-time(microseconds): 2323
-MFLOPS: 0.380542
+time(microseconds): 2487
+MFLOPS: 0.355448
 
 vector size: 972
-time(microseconds): 2896
-MFLOPS: 0.335635
+time(microseconds): 2614
+MFLOPS: 0.371844
 
 vector size: 1069
-time(microseconds): 2187
-MFLOPS: 0.488797
+time(microseconds): 2604
+MFLOPS: 0.410522
 
 vector size: 1175
-time(microseconds): 2304
-MFLOPS: 0.509983
+time(microseconds): 2646
+MFLOPS: 0.444067
 
 vector size: 1292
-time(microseconds): 4333
-MFLOPS: 0.298177
+time(microseconds): 2667
+MFLOPS: 0.484439
 
 vector size: 1421
-time(microseconds): 10233
-MFLOPS: 0.138864
+time(microseconds): 2622
+MFLOPS: 0.541953
 
 vector size: 1563
-time(microseconds): 4846
-MFLOPS: 0.322534
+time(microseconds): 2729
+MFLOPS: 0.572737
 
 vector size: 1719
-time(microseconds): 2395
-MFLOPS: 0.717745
+time(microseconds): 2557
+MFLOPS: 0.672272
 
 vector size: 1890
-time(microseconds): 12688
-MFLOPS: 0.14896
+time(microseconds): 2765
+MFLOPS: 0.683544
 
 vector size: 2079
-time(microseconds): 5480
-MFLOPS: 0.37938
+time(microseconds): 2593
+MFLOPS: 0.801774
 
 vector size: 2286
-time(microseconds): 5501
-MFLOPS: 0.415561
+time(microseconds): 2639
+MFLOPS: 0.866237
 
 vector size: 2514
-time(microseconds): 10556
-MFLOPS: 0.238158
+time(microseconds): 2609
+MFLOPS: 0.963588
 
 vector size: 2765
-time(microseconds): 2400
-MFLOPS: 1.15208
+time(microseconds): 2663
+MFLOPS: 1.0383
 
 vector size: 3041
-time(microseconds): 2477
-MFLOPS: 1.22769
+time(microseconds): 2581
+MFLOPS: 1.17823
 
 vector size: 3345
-time(microseconds): 9713
-MFLOPS: 0.344384
+time(microseconds): 2551
+MFLOPS: 1.31125
 
 vector size: 3679
-time(microseconds): 10423
-MFLOPS: 0.352969
+time(microseconds): 2657
+MFLOPS: 1.38464
 
 vector size: 4046
-time(microseconds): 2296
-MFLOPS: 1.7622
+time(microseconds): 2542
+MFLOPS: 1.59166
 
 vector size: 4450
-time(microseconds): 5251
-MFLOPS: 0.847458
+time(microseconds): 2890
+MFLOPS: 1.53979
 
 vector size: 4895
-time(microseconds): 2385
-MFLOPS: 2.05241
+time(microseconds): 2539
+MFLOPS: 1.92792
 
 vector size: 5384
-time(microseconds): 6394
-MFLOPS: 0.842039
+time(microseconds): 2451
+MFLOPS: 2.19665
 
 vector size: 5922
-time(microseconds): 4456
-MFLOPS: 1.32899
+time(microseconds): 3127
+MFLOPS: 1.89383
 
 vector size: 6514
-time(microseconds): 2569
-MFLOPS: 2.53562
+time(microseconds): 3027
+MFLOPS: 2.15197
 
 vector size: 7165
-time(microseconds): 10179
-MFLOPS: 0.7039
+time(microseconds): 2873
+MFLOPS: 2.49391
 
 vector size: 7881
-time(microseconds): 2277
-MFLOPS: 3.46113
+time(microseconds): 2776
+MFLOPS: 2.83898
 
 vector size: 8669
-time(microseconds): 2304
-MFLOPS: 3.76259
+time(microseconds): 2677
+MFLOPS: 3.23833
 
 vector size: 9535
-time(microseconds): 2940
-MFLOPS: 3.2432
+time(microseconds): 2571
+MFLOPS: 3.70867
 
 vector size: 10488
-time(microseconds): 16029
-MFLOPS: 0.654314
+time(microseconds): 2589
+MFLOPS: 4.05098
 
 vector size: 11536
-time(microseconds): 4186
-MFLOPS: 2.75585
+time(microseconds): 2584
+MFLOPS: 4.4644
 
 vector size: 12689
-time(microseconds): 5049
-MFLOPS: 2.51317
+time(microseconds): 2612
+MFLOPS: 4.85796
 
 vector size: 13957
-time(microseconds): 10479
-MFLOPS: 1.3319
+time(microseconds): 2554
+MFLOPS: 5.46476
 
 vector size: 15352
-time(microseconds): 9867
-MFLOPS: 1.55589
+time(microseconds): 2619
+MFLOPS: 5.86178
 
 vector size: 16887
-time(microseconds): 2695
-MFLOPS: 6.26605
+time(microseconds): 2642
+MFLOPS: 6.39175
 
 vector size: 18575
-time(microseconds): 2898
-MFLOPS: 6.40959
+time(microseconds): 2559
+MFLOPS: 7.25869
 
 vector size: 20432
-time(microseconds): 4952
-MFLOPS: 4.12601
+time(microseconds): 2609
+MFLOPS: 7.83135
 
 vector size: 22475
-time(microseconds): 3165
-MFLOPS: 7.10111
+time(microseconds): 2642
+MFLOPS: 8.50681
 
 vector size: 24722
-time(microseconds): 7320
-MFLOPS: 3.37732
+time(microseconds): 2598
+MFLOPS: 9.51578
 
 vector size: 27194
-time(microseconds): 2296
-MFLOPS: 11.8441
+time(microseconds): 2643
+MFLOPS: 10.2891
 
 vector size: 29913
-time(microseconds): 10067
-MFLOPS: 2.97139
+time(microseconds): 2594
+MFLOPS: 11.5316
 
 vector size: 32904
-time(microseconds): 2286
-MFLOPS: 14.3937
+time(microseconds): 2640
+MFLOPS: 12.4636
 
 vector size: 36194
-time(microseconds): 4798
-MFLOPS: 7.54356
+time(microseconds): 2621
+MFLOPS: 13.8092
 
 vector size: 39813
-time(microseconds): 2391
-MFLOPS: 16.6512
+time(microseconds): 2519
+MFLOPS: 15.8051
 
 vector size: 43794
-time(microseconds): 7847
-MFLOPS: 5.58099
+time(microseconds): 2597
+MFLOPS: 16.8633
 
 vector size: 48173
-time(microseconds): 10491
-MFLOPS: 4.59184
+time(microseconds): 2845
+MFLOPS: 16.9325
 
 vector size: 52990
-time(microseconds): 16667
-MFLOPS: 3.17934
+time(microseconds): 2681
+MFLOPS: 19.765
 
 vector size: 58289
-time(microseconds): 9631
-MFLOPS: 6.05223
+time(microseconds): 2665
+MFLOPS: 21.872
 
 vector size: 64117
-time(microseconds): 2772
-MFLOPS: 23.1302
+time(microseconds): 2612
+MFLOPS: 24.5471
 
 vector size: 70528
-time(microseconds): 3590
-MFLOPS: 19.6457
+time(microseconds): 2624
+MFLOPS: 26.878
 
 vector size: 77580
-time(microseconds): 10441
-MFLOPS: 7.43032
+time(microseconds): 2556
+MFLOPS: 30.3521
 
 vector size: 85338
-time(microseconds): 2813
-MFLOPS: 30.337
+time(microseconds): 2658
+MFLOPS: 32.1061
 
 vector size: 93871
-time(microseconds): 2679
-MFLOPS: 35.0396
+time(microseconds): 2614
+MFLOPS: 35.9109
 
 vector size: 103258
-time(microseconds): 10359
-MFLOPS: 9.96795
+time(microseconds): 2775
+MFLOPS: 37.2101
 
 vector size: 113583
-time(microseconds): 7075
-MFLOPS: 16.0541
+time(microseconds): 2511
+MFLOPS: 45.2342
 
 vector size: 124941
-time(microseconds): 7407
-MFLOPS: 16.868
+time(microseconds): 2599
+MFLOPS: 48.0727
 
 vector size: 137435
-time(microseconds): 9502
-MFLOPS: 14.4638
+time(microseconds): 2745
+MFLOPS: 50.0674
 
 vector size: 151178
-time(microseconds): 10271
-MFLOPS: 14.7189
+time(microseconds): 2701
+MFLOPS: 55.9711
 
 vector size: 166295
-time(microseconds): 2602
-MFLOPS: 63.9105
+time(microseconds): 2649
+MFLOPS: 62.7765
 
 vector size: 182924
-time(microseconds): 2924
-MFLOPS: 62.5595
+time(microseconds): 2632
+MFLOPS: 69.5
 
 vector size: 201216
-time(microseconds): 2740
-MFLOPS: 73.4365
+time(microseconds): 2578
+MFLOPS: 78.0512
 
 vector size: 221337
-time(microseconds): 10542
-MFLOPS: 20.9957
+time(microseconds): 2598
+MFLOPS: 85.1952
 
 vector size: 243470
-time(microseconds): 5690
-MFLOPS: 42.7891
+time(microseconds): 2740
+MFLOPS: 88.8577
 
 vector size: 267817
-time(microseconds): 4049
-MFLOPS: 66.144
+time(microseconds): 2794
+MFLOPS: 95.8543
 
 vector size: 294598
-time(microseconds): 4416
-MFLOPS: 66.7115
+time(microseconds): 2957
+MFLOPS: 99.6273
 
 vector size: 324057
-time(microseconds): 11151
-MFLOPS: 29.0608
+time(microseconds): 2875
+MFLOPS: 112.715
 
 vector size: 356462
-time(microseconds): 3646
-MFLOPS: 97.768
+time(microseconds): 2830
+MFLOPS: 125.958
 
 vector size: 392108
-time(microseconds): 2926
-MFLOPS: 134.008
+time(microseconds): 2698
+MFLOPS: 145.333
 
 vector size: 431318
-time(microseconds): 10857
-MFLOPS: 39.7272
+time(microseconds): 2811
+MFLOPS: 153.439
 
 vector size: 474449
-time(microseconds): 10722
-MFLOPS: 44.25
+time(microseconds): 2649
+MFLOPS: 179.105
 
 vector size: 521893
-time(microseconds): 3571
-MFLOPS: 146.148
+time(microseconds): 2818
+MFLOPS: 185.2
 
 vector size: 574082
-time(microseconds): 10880
-MFLOPS: 52.7649
+time(microseconds): 2912
+MFLOPS: 197.144
 
 vector size: 631490
-time(microseconds): 5259
-MFLOPS: 120.078
+time(microseconds): 2814
+MFLOPS: 224.41
 
 vector size: 694639
-time(microseconds): 3054
-MFLOPS: 227.452
+time(microseconds): 2690
+MFLOPS: 258.23
 
 vector size: 764102
-time(microseconds): 5947
-MFLOPS: 128.485
+time(microseconds): 2957
+MFLOPS: 258.404
 
 vector size: 840512
-time(microseconds): 4713
-MFLOPS: 178.339
+time(microseconds): 3476
+MFLOPS: 241.804
 
 vector size: 924563
-time(microseconds): 5069
-MFLOPS: 182.396
+time(microseconds): 3169
+MFLOPS: 291.752
 
 vector size: 1017019
-time(microseconds): 6152
-MFLOPS: 165.315
+time(microseconds): 3159
+MFLOPS: 321.943
 
 vector size: 1118720
-time(microseconds): 3470
-MFLOPS: 322.398
+time(microseconds): 3216
+MFLOPS: 347.861
 
 vector size: 1230592
-time(microseconds): 3534
-MFLOPS: 348.215
+time(microseconds): 3182
+MFLOPS: 386.735
 
 vector size: 1353651
-time(microseconds): 4267
-MFLOPS: 317.237
+time(microseconds): 3311
+MFLOPS: 408.835
 
 vector size: 1489016
-time(microseconds): 4064
-MFLOPS: 366.392
+time(microseconds): 3429
+MFLOPS: 434.242
 
 vector size: 1637917
-time(microseconds): 10510
-MFLOPS: 155.844
+time(microseconds): 3809
+MFLOPS: 430.012
 
 vector size: 1801708
-time(microseconds): 16126
-MFLOPS: 111.727
+time(microseconds): 3916
+MFLOPS: 460.089
 
 vector size: 1981878
-time(microseconds): 12639
-MFLOPS: 156.807
+time(microseconds): 3947
+MFLOPS: 502.123
 
 vector size: 2180065
-time(microseconds): 4852
-MFLOPS: 449.313
+time(microseconds): 4315
+MFLOPS: 505.229
 
 vector size: 2398071
-time(microseconds): 5799
-MFLOPS: 413.532
+time(microseconds): 4999
+MFLOPS: 479.71
 
 vector size: 2637878
-time(microseconds): 6260
-MFLOPS: 421.386
+time(microseconds): 5078
+MFLOPS: 519.472
 
 vector size: 2901665
-time(microseconds): 7917
-MFLOPS: 366.511
+time(microseconds): 5432
+MFLOPS: 534.18
 
 vector size: 3191831
-time(microseconds): 6304
-MFLOPS: 506.318
+time(microseconds): 5193
+MFLOPS: 614.641
 
 vector size: 3511014
-time(microseconds): 27764
-MFLOPS: 126.459
+time(microseconds): 6064
+MFLOPS: 578.993
 
 vector size: 3862115
-time(microseconds): 7087
-MFLOPS: 544.958
+time(microseconds): 6467
+MFLOPS: 597.203
 
 vector size: 4248326
-time(microseconds): 7262
-MFLOPS: 585.008
+time(microseconds): 6779
+MFLOPS: 626.689
 
 vector size: 4673158
-time(microseconds): 7654
-MFLOPS: 610.551
+time(microseconds): 6516
+MFLOPS: 717.182
 
 vector size: 5140474
-time(microseconds): 7644
-MFLOPS: 672.485
+time(microseconds): 8340
+MFLOPS: 616.364
 
 vector size: 5654521
-time(microseconds): 8693
-MFLOPS: 650.468
+time(microseconds): 8424
+MFLOPS: 671.239
 
 vector size: 6219973
-time(microseconds): 13656
-MFLOPS: 455.475
+time(microseconds): 8901
+MFLOPS: 698.795
 
 vector size: 6841970
-time(microseconds): 12576
-MFLOPS: 544.05
+time(microseconds): 9412
+MFLOPS: 726.941
 
 vector size: 7526167
-time(microseconds): 9449
-MFLOPS: 796.504
+time(microseconds): 9927
+MFLOPS: 758.151
 
 vector size: 8278784
-time(microseconds): 30122
-MFLOPS: 274.842
+time(microseconds): 10388
+MFLOPS: 796.956
 
 vector size: 9106663
-time(microseconds): 17153
-MFLOPS: 530.908
+time(microseconds): 10987
+MFLOPS: 828.858
 
 vector size: 10000000
-time(microseconds): 11684
-MFLOPS: 855.871
+time(microseconds): 12609
+MFLOPS: 793.084
 
